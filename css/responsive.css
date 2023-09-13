@@ -1147,7 +1147,7 @@ box-shadow: 0 0 0 0;
         height: auto;
 }
      .logo img{
-        width: 185px;
+        width: 90px;
     }
 
     .testimonial-active .slick-arrow,.home-blog-active .slick-arrow, .home-blog-active2 .slick-arrow{
@@ -1609,7 +1609,7 @@ margin-bottom: 50px;
     width: 94%;
 }
     .logo img{
-        width: 185px;
+        width: 50px;
     }
     .counter-area .single-counter {
   border-right: none;
