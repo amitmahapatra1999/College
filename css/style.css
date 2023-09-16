@@ -949,11 +949,18 @@ label {
   position: relative;
   z-index: 9;
   box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
-  padding: 10px 0px
+  padding: 10px 0px;
 }
 .header-three .sticky-menu {
   margin-top: 0;
   background: #fff;
+}
+
+.nav-btn {
+  border: none;
+  border-radius: 50px;
+  margin-right: 5px;
+  padding: 3px 10px;
 }
 
 .header-three .main-menu ul li a {
