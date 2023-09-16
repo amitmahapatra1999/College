@@ -268,7 +268,7 @@ label {
   position: absolute;
   border-radius: 50%;
   content: "";
-  background: #125875;
+  background: #002472;
   top: -60px;
   left: 10px;
   z-index: -1;
@@ -280,14 +280,14 @@ label {
   position: absolute;
   border-radius: 4px;
   content: "";
-  background: #125875;
+  background: #002472;
   top: 0;
   left: 0;
   z-index: -1;
 }
 .btn:hover {
   color: #fff;
-  border-color: #125875;
+  border-color: #002472;
 }
 
 .slider-btn:hover .btn-after {
@@ -635,7 +635,7 @@ label {
   color: #517496;
 }
 .right-menu .text strong {
-  color: #125875;
+  color: #002472;
   font-size: 25px;
   font-weight: 900;
   font-family: "Jost", sans-serif;
@@ -801,7 +801,7 @@ label {
 }
 .second-header-btn .btn:hover {
   color: #fff;
-  background: #125875;
+  background: #002472;
 }
 
 .img-main {
@@ -909,7 +909,7 @@ label {
   z-index: 1;
 }
 .header-two .menu-area.sticky-menu {
-  background: #032e3f;
+  background: #002472;
   border: none;
 }
 .header-two .top-callus {
@@ -949,6 +949,7 @@ label {
   position: relative;
   z-index: 9;
   box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+  padding: 10px 0px
 }
 .header-three .sticky-menu {
   margin-top: 0;
@@ -1071,7 +1072,7 @@ label {
   margin-left: 20px;
   float: left;
   border-radius: 10px;
-  background: #125875;
+  background: #002472;
   width: 45px;
   height: 45px;
   text-align: center;
@@ -1616,7 +1617,7 @@ label {
   }
 }
 .slider-content2 h2 {
-  color: #125875;
+  color: #002472;
 }
 .slider-content2 p {
   color: #777777;
@@ -1627,8 +1628,8 @@ label {
 
 /* 4. about */
 .about-area .btn {
-  background: #125875;
-  border: 1px solid #125875;
+  background: #002472;
+  border: 1px solid #002472;
 }
 .about-area .btn:hover {
   border: 1px solid #222769;
@@ -1673,7 +1674,7 @@ label {
   bottom: 0;
   left: 0;
   display: inline-block;
-  background: #125875;
+  background: #002472;
 }
 
 .about-text span {
@@ -1742,7 +1743,7 @@ label {
 .about-content li {
   display: flex;
   margin-bottom: 10px;
-  color: #125875;
+  color: #002472;
 }
 .about-content li .text {
   padding-top: 0;
@@ -1855,7 +1856,7 @@ label {
 .sr-ul li .text {
   font-size: 14px;
 
-  color: #125875;
+  color: #002472;
 }
 
 .sr-tw-ul {
@@ -2795,7 +2796,7 @@ section:hover .section-title h2::before {
   font-weight: 500;
   font-size: 16px;
   margin-top: 10px;
-  color: #125875;
+  color: #002472;
 }
 .services-box-04 .services-content-02 li::before {
   font-family: "Font Awesome 5 Pro";
@@ -2814,7 +2815,7 @@ section:hover .section-title h2::before {
 }
 .services-05::before {
   content: "";
-  background: #125875;
+  background: #002472;
   position: absolute;
   top: 0;
   width: 100%;
@@ -3279,7 +3280,7 @@ section:hover .section-title h2::before {
   width: 75px;
   height: 75px;
   border-radius: 50%;
-  background-color: #222769;
+  background-color: #ffc107;
   margin-right: 20px;
   text-align: center;
   position: relative;
@@ -3898,7 +3899,7 @@ section:hover .section-title h2::before {
   border-radius: 4px;
 }
 .team-active .slick-arrow:hover {
-  background: #125875;
+  background: #002472;
 }
 .team-active .slick-next {
   left: inherit;
@@ -3943,7 +3944,7 @@ section:hover .section-title h2::before {
   width: 20px;
 }
 .team-area-content li .icon strong {
-  color: #125875;
+  color: #002472;
 }
 .team-area-content li .icon {
   margin-right: 10px;
@@ -4009,7 +4010,7 @@ section:hover .section-title h2::before {
   margin-bottom: 20px;
 }
 .s-about-content .footer-social a {
-  background: #125875;
+  background: #002472;
 }
 .per-info ul {
   margin-bottom: 0;
@@ -4040,7 +4041,7 @@ section:hover .section-title h2::before {
   padding-bottom: 30px;
 }
 .conterdown {
-  background: #125875;
+  background: #002472;
   padding: 50px 0;
   border-radius: 4px;
   margin: 30px 0;
@@ -4288,7 +4289,7 @@ section:hover .section-title h2::before {
   transition: all 0.5s ease 0s;
 }
 .event-item:hover .event-content {
-  background: #125875;
+  background: #002472;
   color: #96bece;
 }
 .event-item:hover .event-content .time {
@@ -4610,7 +4611,7 @@ section:hover .section-title h2::before {
   border-radius: 4px;
 }
 .class-active .slick-arrow:hover {
-  background: #125875;
+  background: #002472;
   color: #fff;
 }
 .class-active .slick-next {
@@ -4655,7 +4656,7 @@ section:hover .section-title h2::before {
   font-family: "Jost", sans-serif;
 }
 .course-meta2 {
-  background: #125875;
+  background: #002472;
   border-radius: 8px;
   padding: 15px 30px;
 }
@@ -4756,7 +4757,7 @@ section:hover .section-title h2::before {
 .cta-title h3 {
   padding-bottom: 0;
   font-size: 18px;
-  color: #125875;
+  color: #002472;
   text-transform: uppercase;
 }
 .cta-title p {
@@ -4776,15 +4777,15 @@ section:hover .section-title h2::before {
   border: 1px solid #222769;
 }
 .cta-btn .btn:hover {
-  border: 1px solid #125875;
+  border: 1px solid #002472;
 }
 .cta-btn .btn::before {
-  background: #125875;
+  background: #002472;
 }
 
 .cta-btn2 .btn {
-  border: 1px solid #125875;
-  background: #125875;
+  border: 1px solid #002472;
+  background: #002472;
 }
 .cta-btn2 .btn:hover {
   border: 1px solid #4ea9b4;
@@ -5189,7 +5190,7 @@ section:hover .section-title h2::before {
   margin-bottom: 50px;
   font-size: 28px;
   line-height: 38px;
-  color: #125875;
+  color: #002472;
   font-family: "Jost", sans-serif;
   font-weight: 500;
 }
@@ -5385,7 +5386,7 @@ section:hover .section-title h2::before {
 
 .home-blog-active .slick-arrow:hover,
 .home-blog-active2 .slick-arrow:hover {
-  background: #125875;
+  background: #002472;
 }
 
 .home-blog-active .slick-arrow.slick-next,
@@ -5872,8 +5873,8 @@ section:hover .section-title h2::before {
 }
 
 .pricing-box.active {
-  border-color: #125875;
-  background: #125875;
+  border-color: #002472;
+  background: #002472;
 }
 .pricing-box.active .pricing-head .glyph-icon::before {
   background: #fff;
@@ -5926,8 +5927,8 @@ section:hover .section-title h2::before {
   font-size: 36px;
 }
 .pricing-btn .btn {
-  background: #125875;
-  border-color: #125875;
+  background: #002472;
+  border-color: #002472;
 }
 .pricing-btn .btn::before {
   background: #222769;
@@ -5939,12 +5940,12 @@ section:hover .section-title h2::before {
 }
 /* 19. contact */
 .contact-form .btn {
-  background: #222769;
-  border: 1px solid #222769;
+  background: #ffc107;
+  border: 1px solid #ffc107;
 }
 .contact-form .btn:hover {
-  background: #125875;
-  border: 1px solid #125875;
+  background: #002472;
+  border: 1px solid #002472;
 }
 .search-area h2 {
   color: #fff;
@@ -5974,7 +5975,7 @@ section:hover .section-title h2::before {
   top: 20px;
 }
 .contact-bg02 {
-  background: #032e3f;
+  background: #002472;
   padding: 80px 50px;
   border-radius: 10px;
 }
@@ -6154,7 +6155,7 @@ section:hover .section-title h2::before {
 .f-contact i {
   width: 40px;
   height: 40px;
-  background: #222769;
+  background: #ffc107;
   line-height: 40px;
   color: #fff !important;
   text-align: center;
@@ -6319,7 +6320,7 @@ section:hover .section-title h2::before {
   opacity: 0.6;
 }
 .copyright-wrap {
-  background: #222769;
+  background: #ffc107;
   color: #fff;
   font-size: 15px;
 }
@@ -6465,7 +6466,7 @@ section:hover .section-title h2::before {
   transition: 0.3s;
   opacity: 0;
   z-index: 9;
-  background: #125875;
+  background: #002472;
   height: 50px;
   width: 50px;
   text-align: center;
@@ -8827,7 +8828,7 @@ p.checkout-coupon input[type="text"] {
 }
 .services-categories li:hover a::before,
 .services-categories li.active a::before {
-  background: #125875;
+  background: #002472;
 }
 
 /*=== Services Contact Box ===*/
@@ -9389,7 +9390,7 @@ p.checkout-coupon input[type="text"] {
   top: 67px;
 }
 .project-detail .info-column .inner-column2 h3 {
-  background: #125875;
+  background: #002472;
   color: #fff;
   font-size: 20px;
   padding: 15px;
@@ -9406,13 +9407,13 @@ p.checkout-coupon input[type="text"] {
   top: 67px;
 }
 .project-detail .info-column .inner-column3 .footer-social a {
-  background: #125875;
+  background: #002472;
 }
 .project-detail .info-column .inner-column3 .footer-social a:hover {
   background: #222769;
 }
 .project-detail .info-column .inner-column3 h3 {
-  background: #125875;
+  background: #002472;
   color: #fff;
   font-size: 20px;
   padding: 15px;
@@ -9664,7 +9665,7 @@ p.checkout-coupon input[type="text"] {
 }
 .newslater-area #contact-form4 button {
   border-radius: 4px;
-  background: #125875;
+  background: #002472;
   color: #fff;
   height: 55px;
   padding: 0 30px;
